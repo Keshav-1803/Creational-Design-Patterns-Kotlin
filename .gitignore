@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+Pattern.iml
+
+.gitignore
+
+.idea
